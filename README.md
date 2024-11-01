@@ -1,4 +1,4 @@
-# CampusX-ml (A ROADMAP FOR A BEGINNER IN MACHINE LEARNING)
+# ML Roadmap (A ROADMAP FOR A BEGINNER IN MACHINE LEARNING)
 
 Here’s the complete roadmap based on my personal experience with machine learning. While many channels provide high-quality content on ML, AI, and DL, this beginner-friendly roadmap highlights Campus X on YouTube as one of the best resources for getting started with machine learning. The channel offers approximately 200-300 in-depth videos on topics across Data Science, Machine Learning, and Deep Learning, available in both English and Hindi. It’s recommended to read this entire README file from start to finish to gain a comprehensive overview of machine learning and related topics. This helps to have a clear idea of the concepts you'll encounter throughout the learning journey.
 
