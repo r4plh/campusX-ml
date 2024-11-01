@@ -5,6 +5,8 @@ Before diving into any tech , one should definately know about tutorial's hell ,
 
 [STOP Watching Coding Tutorials Right Now! My LEARNING FRAMEWORK](https://www.youtube.com/watch?v=8L5kVBays24&t=506s)
 
+# Start of the ML Roadmap
+
 To begin learning machine learning, having a basic understanding of Python is essential. You don’t need to be highly proficient—just familiar enough to understand and write basic code. Python is simply a tool, one of several, and it’s a foundational prerequisite, not the end goal. Keep in mind, the aim is to master machine learning concepts, not the tools themselves.
 
 Once we dive into ML algorithms and their underlying math, tools like Python, math libraries, and data handling packages will support our learning. But remember: the focus should always be on learning ML concepts, not on becoming an expert in any specific tool. As we progress, we’ll encounter libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn. These will be crucial, but the goal is to use them effectively, not to perfect them, as that would take a significant amount of time to perfect one. You can always come back and visit the documentation if there's a need.  
