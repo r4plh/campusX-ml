@@ -1,4 +1,4 @@
-# campusX-ml 
+# campusX-ml (A ROADMAP FOR A BEGINNER IN MACHINE LEARNING)
 
 # IN THE START ONLY - GET AWARE OF TUTORIAL'S HELL 
 Before diving into any tech , one should definately know about tutorial's hell , go search it , read something about it and see some vidoes on YT about tutorial's hell.
