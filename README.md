@@ -19,6 +19,12 @@ A basic elementary maths is also a pre-requisite covering topics like - Matrices
 
 Before diving into machine learning itself, we’re first "sharpening the axe" to ensure a smoother journey ahead. Jumping straight into ML without covering the basics can lead to setbacks and frustration, so it’s wise to build a solid foundation first. While the initial steps may feel slow or even dull, stick with it—the concepts and logic will soon start to make sense, and that’s when the excitement begins. Embrace the process, stay patient, and soon enough, everything will fall into place. 
 
+# Take a intro to Google Collab , this would be most used in our ML journey as a beginner 
+
+Get friendly of using Google collab for python , one will be mostly using it as a beginner , it's very easy , go through it
+
+[Intro to google Collab](https://www.youtube.com/watch?v=RLYoEyIHL6A)
+
 ## Pre-requisite 
 1. Python: From Scratch/Fundamental till Machine Learning Essentials
 
