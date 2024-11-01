@@ -52,7 +52,7 @@ Apart from just coding along , solve few questions to get a grip and avoid tutor
 
 [Numpy Documentation](https://numpy.org/)
 
-4. Pandas: Basics
+3. Pandas: Basics
 
 The Data Science Mentorship Program (DSMP) 2022-23 playlist features over 10 hours of content on the Pandas library, covering it in extensive detail. Pandas is one of the most important tools for data manipulation and is used in nearly all machine learning projects. However, spending over 10 hours on this topic may be excessive for now; we only need a basic understanding or more than basic of its implementation to get started with machine learning.
 
@@ -68,13 +68,13 @@ The remaining two tools we'll cover are for data visualization: Matplotlib and S
 
 Developing a habit of referring to the documentation when you feel stuck, or utilizing resources like Google or ChatGPT, will be valuable in helping you create the visualizations you need. Get familiar with these libraries without investing too much time learning every detail. Save your energy for the more critical aspects of our journey—machine learning is just around the corner!
 
-5. Matplotlib: Basic plotting using Matplotlib
+4. Matplotlib: Basic plotting using Matplotlib
 
 [Session 23 - Plotting using Matplotlib](https://www.youtube.com/watch?v=XaKn_cKFlSY&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=73)
 
 [Matplotlib Documentation](https://matplotlib.org/)
 
-6. Seaborn : Plotting using Seaborn
+5. Seaborn : Plotting using Seaborn
 
 [Session 25 - Plotting using Seaborn](https://www.youtube.com/watch?v=DWVLRhnuGqI&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=78)
 
@@ -86,7 +86,7 @@ The next two videos on data gathering and data assessment are optional. If these
 
 [Session 28 - Data Assessing and Cleaning ](https://www.youtube.com/watch?v=-HnN8GBINnc&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=84)
 
-I have not explicitly mentioned any roadmap to maths required , it's basic linear algebra , basic calculus and dervivates , concept of maxima and minima and matrices. - TO start ML.
+I have not explicitly mentioned any roadmap to maths required , it's basic linear algebra , basic calculus and dervivates , concept of maxima and minima and matrices. - To start ML.
 
 Finally! We have reached the point where we can begin our journey into machine learning! Most of the videos on ML algorithms after the "Introduction to ML" follow a consistent pattern: first, they explain the mathematical concepts related to the algorithm, then demonstrate how to implement it using Scikit-learn. As you engage with this content, you will gain a clearer understanding of what’s happening—so just dive in!
 
