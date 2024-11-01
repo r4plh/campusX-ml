@@ -100,7 +100,7 @@ Scikit-learn is an additional tool, a dedicated machine learning library in Pyth
 
 [Introduction to Machine Learning](https://www.youtube.com/watch?v=1ctqJCHMAmc&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=144)
 
-This is a comprehensive 3.5-hour video that is essential for understanding the foundational concepts before diving into classical machine learning theory. After completing this video, you will start with the renowned machine learning course by Andrew Ng, available in both English and Hindi.
+This is a comprehensive 3.5-hour video that is essential for understanding the foundational concepts before diving into classical machine learning theory.
 
 To further your learning, I recommend the entire "100 Days of Machine Learning" playlist from Campus X, which covers machine learning algorithms starting from video number 50. You should begin with the video titled Simple Linear Regression | Code + Intuition (video number 50 , session 48). The reason for skipping the first 49 videos is that many of the concepts have already been covered prior to this point. If you ever need to revisit any topics from those initial videos (first 49 videos of this playlist - 100 days of machine learning Campus X), you can easily search for and review relevant concepts when they arise in a problem statement. Starting out directly from middle that is video 50 won't make you feel stuck.
 
