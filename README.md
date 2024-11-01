@@ -1,6 +1,6 @@
 # CampusX-ml (A ROADMAP FOR A BEGINNER IN MACHINE LEARNING)
 
-Here’s the complete roadmap based on my personal experience with machine learning. While many great channels provide high-quality content on ML, AI, and DL, this beginner-friendly roadmap highlights Campus X on YouTube as one of the best resources for getting started with machine learning. The channel has uploaded approximately 200-300 long videos covering a wide range of topics related to Data Science, Machine Learning, and Deep Learning, available in both English and Hindi.
+Here’s the complete roadmap based on my personal experience with machine learning. While many great channels provide high-quality content on ML, AI, and DL, this beginner-friendly roadmap highlights Campus X on YouTube as one of the best resources for getting started with machine learning. The channel has uploaded approximately 200-300 long videos covering a wide range of topics related to Data Science, Machine Learning, and Deep Learning, available in both English and Hindi. It's advisable that one should go through the full readme file(this one) from start till end to get a full overview about the machine learning and related terms rather than just starting out without reading the full readme , we should be having in the mind what all things we are going to study in the jounrney from start only.
 
 For this roadmap, we will focus on the free videos from the Campus X DSMP program, but with a modified approach. This way, you can quickly progress to machine learning algorithms after efficiently covering the prerequisites in an optimized manner. Just following the DSMP playlist of Campus X would take a lot time till you reach the Classical ML theory , so I have listed videos in such a way that is enough so that we can start with Machine Leanring along with having basic idea of Python , Numpy , Pandas , Matplotlib , Seaborn , Scikit learn. Don't worry if one doesn't get the jargons mentioned just start following it from the next line , and you will eventually catch up things.
 
@@ -100,15 +100,27 @@ Scikit-learn is an additional tool, a dedicated machine learning library in Pyth
 
 [Introduction to Machine Learning](https://www.youtube.com/watch?v=1ctqJCHMAmc&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=144)
 
-This is a long 3.5 hour video (this is essential to understand and start with flow) , after this one will start with the classical ML theory that is taught in one of the most famous course Andrew NG course in (English+Hindi).
+This is a comprehensive 3.5-hour video that is essential for understanding the foundational concepts before diving into classical machine learning theory. After completing this video, you will start with the renowned machine learning course by Andrew Ng, available in both English and Hindi.
+
+To further your learning, I recommend the entire "100 Days of Machine Learning" playlist from Campus X, which covers machine learning algorithms starting from video number 50. You should begin with the video titled Simple Linear Regression | Code + Intuition (video number 50 , session 48). The reason for skipping the first 49 videos is that many of the concepts have already been covered prior to this point. If you ever need to revisit any topics from those initial videos (first 49 videos of this playlist - 100 days of machine learning Campus X), you can easily search for and review relevant concepts when they arise in a problem statement. Starting out directly from middle that is video 50 won't make you feel stuck.
+
+[100 days of ML Campus X Playlist Link](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=jtpnoiOxX867pY4n)
+
+[Linear Regression - video (50) Simple Linear Regression | Code + Intuition](https://www.youtube.com/watch?v=UZPfbG0jNec&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=50)
 
 From this point forward, we need to delve into the concepts in great depth. Don’t hesitate to use ChatGPT or Claude 3.5 to ask any questions you have, no matter how foolish or newbie they may seem. Remember, there’s no such thing as a foolish question. I have frequently used them to clarify my own doubts in machine learning, and they almost all times deliver highly accurate answers regarding ML algorithms.
 
 Explore these concepts as deeply as you can with the help of Google, ChatGPT, and other search resources. I’ve had extensive conversations with ChatGPT to address even my most basic questions, and it has always guided me to a clearer understanding. Engage actively, and let’s ensure you grasp every aspect of the material. Doing this activity will make one's leanring fun. Understand concepts like you're understaning the concepts related to physics using maths as a tool (This is my personal analogy to ML). No need to install jupyter notebook , continue working in google collab only , in the videos maybe jupyter notebook is used , but I think Collab's interface is much better.
 
-Here's start of classical ML theory - leanring on ML algorithms - maths + code
+Now that we've reached the core of machine learning algorithms, we can begin our focused study with video number 50, which introduces Simple Linear Regression. From video 50 to video 133, all classical machine learning algorithms are thoroughly discussed. I encourage you to watch at least through video number 79, titled Logistic Regression Hyperparameters || Logistic Regression Part 8.
 
-[Simple Linear Regression | Code + Intuition](https://www.youtube.com/watch?v=UZPfbG0jNec&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=50)
+If you reach this point, congratulations! You have made significant progress and are now proficient enough to transition into deep learning, particularly neural networks, which are currently among the most sought-after skills in the job market. You can shift your focus to deep learning after completing video 79. Till here if you have completed you've almost covered everything that is needed to start with deep learning , now for your own sake of completing classical ML theory you can complete the videos after 79 till 133.
+
+[video 79 Link](https://www.youtube.com/watch?v=ay_OcblJasE&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=79)
+
+The remaining algorithms covered from video 80 onward include Decision Trees(video number 80) to Hyperparameter Tuning using Optuna (video 133). These topics are essential for completing your understanding of classical machine learning theory. However, it's important to note that the content from videos 80 to 133 is not directly related to deep learning concepts. Therefore, skipping this section won't hinder your ability to grasp deep learning principles , if one's interest lies within switching to deep learning as soon as possible , one can trasnit from here now.
+
+If you wish to transition into deep learning, it's advisable to first solidify your knowledge by covering the foundational topics in Python and the prerequisites necessary for deep learning (and they are whatever covered till here at this point). After that, focus on the material from video 50 to video 79 in the playlist "100 Days of Machine Learning" by Campus X. By doing this, you will have acquired all the necessary prerequisites to start your deep learning journey.
 
 
 
