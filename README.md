@@ -1,11 +1,11 @@
 # CampusX-ml (A ROADMAP FOR A BEGINNER IN MACHINE LEARNING)
 
-# IN THE START ONLY - GET AWARE OF TUTORIAL'S HELL 
-Before diving into any tech , one should definately know about tutorial's hell , go search it , read something about it and see some vidoes on YT about tutorial's hell.
-
 Here’s the complete roadmap based on my personal experience with machine learning. While many great channels provide high-quality content on ML, AI, and DL, this beginner-friendly roadmap highlights Campus X on YouTube as one of the best resources for getting started with machine learning. The channel has uploaded approximately 200-300 long videos covering a wide range of topics related to Data Science, Machine Learning, and Deep Learning, available in both English and Hindi.
 
 For this roadmap, we will focus on the free videos from the Campus X DSMP program, but with a modified approach. This way, you can quickly progress to machine learning algorithms after efficiently covering the prerequisites in an optimized manner. Just following the DSMP playlist of Campus X would take a lot time till you reach the Classical ML theory , so I have listed videos in such a way that is enough so that we can start with Machine Leanring along with having basic idea of Python , Numpy , Pandas , Matplotlib , Seaborn , Scikit learn. Don't worry if one doesn't get the jargons mentioned just start following it from the next line , and you will eventually catch up things.
+
+# IN THE START ONLY - GET AWARE OF TUTORIAL'S HELL 
+Before diving into any tech , one should definately know about tutorial's hell , go search it , read something about it and see some vidoes on YT about tutorial's hell.
 
 [STOP Watching Coding Tutorials Right Now! My LEARNING FRAMEWORK](https://www.youtube.com/watch?v=8L5kVBays24&t=506s)
 
